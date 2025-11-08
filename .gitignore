@@ -1,0 +1,124 @@
+# ───────────────────────────────────────────────
+# PYTHON ENVIRONMENTS
+# ───────────────────────────────────────────────
+# uv virtual environment
+.venv/
+.uv/
+
+# Conda environments
+env/
+venv/
+.conda/
+*.conda-env
+*.yml.lock
+
+# pip venvs
+*.egg-info/
+*.eggs/
+dist/
+build/
+pip-wheel-metadata/
+wheelhouse/
+
+# PyInstaller / build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled C extensions
+*.so
+*.pyd
+*.dll
+
+# Test and coverage data
+.pytest_cache/
+.coverage
+.tox/
+.nox/
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Logs and temp files
+logs/
+*.log
+*.out
+*.tmp
+*.swp
+.DS_Store
+
+# ───────────────────────────────────────────────
+# IDEs AND EDITORS
+# ───────────────────────────────────────────────
+# JetBrains (PyCharm, DataSpell, IntelliJ, etc.)
+.idea/
+*.iml
+out/
+cmake-build-*/
+
+# VS Code
+.vscode/
+.history/
+.code-workspace
+.settings/
+
+# Visual Studio / other misc editors
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ───────────────────────────────────────────────
+# SYSTEM AND OS FILES
+# ───────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+._*
+
+# Linux
+*~
+
+# ───────────────────────────────────────────────
+# ENVIRONMENT / SECRETS
+# ───────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.crt
+*.secrets
+*.credentials
+secrets.json
+
+# ───────────────────────────────────────────────
+# PROJECT SPECIFIC (ADJUST AS NEEDED)
+# ───────────────────────────────────────────────
+# Local databases / cache
+db.sqlite3
+instance/
+*.db
+*.sqlite
+
+# Notebooks exports
+*.html
+*.pdf
+
+# PyCharm HTTP client requests
+httpRequests/
+
+# Python version
+.python-version
