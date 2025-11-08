@@ -33,7 +33,7 @@ The article explores how the design philosophies used in civil and municipal eng
 
 ## 🛠️ Related Project: CostQueryPro
 
-Several examples in the article reference **CostQueryPro**, a Python-based backend project focused on cost analysis for municipal infrastructure.  
+Several examples in the article reference **CostQueryPro**, a Python-based backend project focused on cost estimation queries for municipal infrastructure.  
 Repository: [Brice-Backend-Projects/CostQueryPro](https://github.com/Brice-Engineering-Projects/Cost-Query-Pro)
 
 Key technologies:
