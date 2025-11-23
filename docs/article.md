@@ -25,24 +25,23 @@ Civil engineers talk about “safety factors.” Software engineers call them �
 Designing for reliability isn’t about overbuilding. It’s about balancing risk, cost, and performance so the system holds its ground when it matters most.
 
 ---
-======================
-LEFT OFF HERE
-======================
+
 ## 📐 Predictability Through Standards
 
 In civil engineering, no one builds from guesswork.  
 Every bolt, valve, and pipe diameter traces back to a standard — AWWA, ASTM, FDOT, or JEA specifications. Those standards create predictability: when you hand off a set of plans, another engineer, contractor, or inspector knows exactly what to expect. That shared language keeps cities running.
 
-I approach backend development the same way.  
-**CostQueryPro** isn’t just lines of Python — it’s a structured ecosystem that follows its own internal standards: consistent naming, strict linting, type hints, and automated testing through GitHub Actions. The CI/CD pipeline doesn’t just deploy code; it enforces discipline.
+I approach backend development / machine learning the same way.  **CostQueryPro** isn’t just lines of Python — it’s a structured ecosystem that follows its own internal standards: consistent naming, strict linting, type hints, and automated testing through GitHub Actions. The CI/CD pipeline doesn’t just deploy code; it enforces discipline.
 
 Standards might seem rigid, but they’re what make creativity sustainable.  
 When every developer follows the same conventions, collaboration becomes seamless and debugging becomes faster. The same way a contractor can build from a clear set of plans, another developer can step into a repo and immediately understand the flow.
 
-In both fields, predictability isn’t the enemy of innovation — it’s what makes innovation repeatable. Systems that last, whether in concrete or in code, are born from consistency.
+In both fields, predictability isn’t the enemy of innovation, it’s what makes innovation repeatable. Systems that last, whether in concrete or in code, are born from consistency.
 
 ---
-
+======================
+LEFT OFF HERE
+======================
 ## 🧪 Testing and Commissioning
 
 No civil engineer would ever energize a pump station or open a valve before the system was tested. Hydrostatic pressure tests, bacteriological sampling, startup inspections — all of it exists to prove one thing: the design works as intended *before* it’s put into service.
@@ -91,9 +90,10 @@ It’s about ensuring it holds *when it matters most*.
 If you enjoyed this post, feel free to follow along for more writing at the intersection of **engineering, backend systems, and reliability design**. I occasionally share insights from real infrastructure projects, Python backend development, and lessons learned from building tools like **CostQueryPro**.
 
 You can also connect with me here:
+
 - 🌐 [Portfolio](https://www.devbybrice.com)
 - 💻 [GitHub – Profile](https://github.com/bnelsonemail)
 - ✍️ [Medium – Brice Nelson](https://medium.com/@quantshift)
 - 💼 [LinkedIn – Brice Nelson](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)
 
-I’m always interested in thoughtful discussions about system reliability, backend architecture, and how traditional engineering principles can shape better software.
+I’m always interested in thoughtful discussions about system reliability, backend architecture, machine learning, and how traditional engineering principles can shape better software.

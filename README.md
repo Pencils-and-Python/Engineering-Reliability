@@ -37,6 +37,7 @@ Several examples in the article reference **CostQueryPro**, a Python-based backe
 Repository: [Brice-Backend-Projects/CostQueryPro](https://github.com/Brice-Engineering-Projects/Cost-Query-Pro)
 
 Key technologies:
+
 - **Python / Flask**
 - **PostgreSQL + SQLAlchemy**
 - **Redis / Flask-Session**
@@ -56,5 +57,3 @@ engineering-reliability-in-software/
 │   └── cover_reliability.jpg   # Optional cover image for Medium or GitHub
 └── metadata.json               # Metadata for SEO or internal documentation
 ```
-
-
